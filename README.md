@@ -1,2 +1,2 @@
 # quote_generator
-See the web-app here [Link](https://quote-generator-woad.vercel.app/)
+See the web-app [here](https://quote-generator-woad.vercel.app/).
